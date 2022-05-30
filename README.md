@@ -1,7 +1,7 @@
 # Documentation of ounu.ch platform
 Ounu.ch is the platform which poweres hosterei.ch / hosterei.space. It it build on hetzner hcloud. 
 
-## Infrastrucure
+## Infrastrucure
 ### Management
 All magament tools are running on a seperate kubernetes cluster. Tools are deployed with ArgoCD (app-of-apps).
 
@@ -24,7 +24,7 @@ The workload is runnning on a kubernets cluster. There is no direct access to th
 
 ## Hosting
 Users have an nice UI where there can manage thier Applications. The User workflow looks something like that:
-![User flow](./User-process.drawio.png?raw=true "Userprocess")
+![User flow](./images/User-process.drawio.png?raw=true "Userprocess")
 
 
 ### GitOps
