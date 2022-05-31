@@ -41,3 +41,10 @@ ArgoCD Image Updater is used to automatically update the applications. Git Git u
 Addons:
   - ArgoCD applicatoinsets 
   - ArgoCD Image updater
+
+## Architecture
+In this section the hosterei architecture is described.
+
+### Architecture draft
+The rough hosterei architecure is visible in the diagram below.
+![Rough architecture](./images/hosterei-rough-architecture.png?raw=true "Userprocess")
